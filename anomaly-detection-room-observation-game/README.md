@@ -1,5 +1,4 @@
-Names: Diana Grace Niyogusabwa, Yasmeen Saeed 
-Student_ID:101293762,101296274
+Names: Yasmeen Saeed 
 
 How to compile/run the program:
 (a) run the program:
