@@ -1,0 +1,14 @@
+---
+:id: 7191502
+:submitters:
+- :name: Diana Grace Niyogusabwa
+  :email: dianagraceniyogusabw@cmail.carleton.ca
+- :name: Yasmeen Saeed
+  :email: yasmeensaeed@cmail.carleton.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-30 04:04:50.963277000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-29 20:04:50.963277000 Z
+:status: processed
+:score: 100.0
